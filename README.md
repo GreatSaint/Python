@@ -68,7 +68,6 @@ SQLMap的Tamper脚本
 3.3 传输层DoS
 3.4 应用层DoS
 
-
 第8章 Python免杀技术
 1 生成shellcode
 2 shellcode的加载与执行
