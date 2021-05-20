@@ -1,0 +1,9 @@
+import socket
+ip1 = socket.gethostbyname('www.baidu.com')
+ print(ip1)
+
+ from whois import whois
+ data= whois('www.baidu.com')
+ print(data)
+
+ 这些代码在python3的命令行下执行
