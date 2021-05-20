@@ -56,8 +56,7 @@ SQLMap的Tamper脚本
 第6章 模糊测试
 1 绕过安全狗
 2 模糊测试结合WebShell
-3 XSS模糊测试工具XSStrike
-4 Sulley模糊测试框架
+
 
 第7章 流量分析
 1 流量嗅探
